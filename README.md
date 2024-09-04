@@ -1,6 +1,6 @@
-Hi there im david i code the java and a bit of other stuff
-I am currently working on a TD game in java based off LibGDX
-You can reach me on discord "davidcms"
+Hi there im david i code the java and a bit of other stuff/n
+I am currently working on a TD game in java based off LibGDX/n
+You can reach me on discord "davidcms"/n
 I am stu**dying** CS at SPTŠMS (http://spts.si/)
 <!--
 **davidCMs/davidCMs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
